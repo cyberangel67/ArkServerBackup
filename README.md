@@ -7,7 +7,7 @@ This repository is used to:
 
 
 ## Download
-Go to the [Releases page](https://github.com/YourUserName/MyApp-Binaries/releases) to download the latest version.
+Go to the [Releases page](https://github.com/YourUserName/ArkServerBackup-Binaries/releases) to download the latest version.
 
 ## Report an Issue
-Please [open a new issue](https://github.com/YourUserName/MyApp-Binaries/issues) if you experience any problems or have suggestions.
+Please [open a new issue](https://github.com/YourUserName/ArkServerBackup-Binaries/issues) if you experience any problems or have suggestions.
