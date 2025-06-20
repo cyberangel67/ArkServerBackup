@@ -10,4 +10,4 @@ This repository is used to:
 Go to the [Releases page](https://github.com/YourUserName/ArkServerBackup-Binaries/releases) to download the latest version.
 
 ## Report an Issue
-Please [open a new issue](https://github.com/YourUserName/ArkServerBackup-Binaries/issues) if you experience any problems or have suggestions.
+Please [open a new issue](https://github.com/YourUserName/ArkServerBackup/issues) if you experience any problems or have suggestions.
