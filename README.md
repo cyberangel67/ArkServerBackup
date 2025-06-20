@@ -6,7 +6,7 @@ This repository is used to:
 
 This is simple to use with the following
 
-Usage: ArkBackupServer <ftp-url> <username> <password> <remote-path> <local-path>
+Usage: ArkBackupServer {ftp-url} {username} {password} {remote-path} {local-path}
 
 This will then create a copy of that Map into the local-path and then create a Zip backup of these files.
 
